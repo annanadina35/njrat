@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>NjRat.Core</RootNamespace>
+    <AssemblyName>NjRat.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
